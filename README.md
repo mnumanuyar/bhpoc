@@ -1,11 +1,4 @@
-# Unity2dTemplateProject
-Unity 2021.3.8f1 based 2d template project
+# What is this ?
+This is a bullet heaven (or vampire survivers like ) game made with it unity with settings from Unity2dTemplateProject. 
+This is a proof of concept hoby project, no planned deadline etc.
 
-Feel free to branch and download this project to start a new 2d game.
-
-## Todo:
-
-- add automation 
-- issue templates
-- script to remove template specific files (i.e. this readme! )
-- (feel free to request anything else)
